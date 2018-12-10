@@ -1,5 +1,6 @@
 # PostgreSQL FTS demo
 ![Full text PostgreSQL search](https://artmizu.ru/linux-screenshots/Screenshot%20at%2019-04-38.png)
+
 PostgreSQL full text search features with Node JS back-end.
 
 ## [Demo](http://search.artmizu.ru/)
