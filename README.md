@@ -3,7 +3,7 @@
 
 PostgreSQL full text search features with Node JS back-end.
 
-## [Demo](http://search.artmizu.ru/)
+## [Demo](https://www.search.artmizu.ru/user)
 
 ## Parts of project
 - [Node JS back-end](https://github.com/artmizu/FTS-back)
@@ -37,4 +37,4 @@ flyway.password=dbuserpassword
 ```
 6.  Setup completed. 
   
-To start local front-end server run ```npm run serve``` from the root of repository folder. Accordingly, run ```npm run serve``` from the back-end folder.
+To start local front-end server run ```npm run serve``` from the root of repository folder. Accordingly, run ```node app.js``` from the back-end folder.
